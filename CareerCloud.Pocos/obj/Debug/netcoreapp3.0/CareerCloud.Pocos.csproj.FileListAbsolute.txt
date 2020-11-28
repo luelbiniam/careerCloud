@@ -1,0 +1,16 @@
+C:\Users\biniam\source\repos\CareerCloud\CareerCloudPocos\CareerCloud.Pocos\bin\Debug\netcoreapp3.0\CareerCloud.Pocos.deps.json
+C:\Users\biniam\source\repos\CareerCloud\CareerCloudPocos\CareerCloud.Pocos\bin\Debug\netcoreapp3.0\CareerCloud.Pocos.dll
+C:\Users\biniam\source\repos\CareerCloud\CareerCloudPocos\CareerCloud.Pocos\bin\Debug\netcoreapp3.0\CareerCloud.Pocos.pdb
+C:\Users\biniam\source\repos\CareerCloud\CareerCloudPocos\CareerCloud.Pocos\obj\Debug\netcoreapp3.0\CareerCloud.Pocos.csprojAssemblyReference.cache
+C:\Users\biniam\source\repos\CareerCloud\CareerCloudPocos\CareerCloud.Pocos\obj\Debug\netcoreapp3.0\CareerCloud.Pocos.AssemblyInfoInputs.cache
+C:\Users\biniam\source\repos\CareerCloud\CareerCloudPocos\CareerCloud.Pocos\obj\Debug\netcoreapp3.0\CareerCloud.Pocos.AssemblyInfo.cs
+C:\Users\biniam\source\repos\CareerCloud\CareerCloudPocos\CareerCloud.Pocos\obj\Debug\netcoreapp3.0\CareerCloud.Pocos.dll
+C:\Users\biniam\source\repos\CareerCloud\CareerCloudPocos\CareerCloud.Pocos\obj\Debug\netcoreapp3.0\CareerCloud.Pocos.pdb
+C:\Users\biniam\source\repos\CareerCloud\CareerCloud.Pocos\bin\Debug\netcoreapp3.0\CareerCloud.Pocos.deps.json
+C:\Users\biniam\source\repos\CareerCloud\CareerCloud.Pocos\bin\Debug\netcoreapp3.0\CareerCloud.Pocos.dll
+C:\Users\biniam\source\repos\CareerCloud\CareerCloud.Pocos\bin\Debug\netcoreapp3.0\CareerCloud.Pocos.pdb
+C:\Users\biniam\source\repos\CareerCloud\CareerCloud.Pocos\obj\Debug\netcoreapp3.0\CareerCloud.Pocos.AssemblyInfoInputs.cache
+C:\Users\biniam\source\repos\CareerCloud\CareerCloud.Pocos\obj\Debug\netcoreapp3.0\CareerCloud.Pocos.AssemblyInfo.cs
+C:\Users\biniam\source\repos\CareerCloud\CareerCloud.Pocos\obj\Debug\netcoreapp3.0\CareerCloud.Pocos.dll
+C:\Users\biniam\source\repos\CareerCloud\CareerCloud.Pocos\obj\Debug\netcoreapp3.0\CareerCloud.Pocos.pdb
+C:\Users\biniam\source\repos\CareerCloud\CareerCloud.Pocos\obj\Debug\netcoreapp3.0\CareerCloud.Pocos.csprojAssemblyReference.cache
