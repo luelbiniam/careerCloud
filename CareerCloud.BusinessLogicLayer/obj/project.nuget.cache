@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LbWuZj6QrEcNtOZW3VafPv0XPpk2arCqwXRhDX7DgCQyLXON4SPCBiD5u3dCMsg9KRMHDBSjX4IInhwibQkQHA==",
+  "success": true,
+  "projectFilePath": "/Users/biniam/Desktop/C#_projects/repos/CareerCloud/CareerCloud.BusinessLogicLayer/CareerCloud.BusinessLogicLayer.csproj",
+  "expectedPackageFiles": [
+    "/Users/biniam/.nuget/packages/microsoft.aspnetcore.app.ref/3.0.1/microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
